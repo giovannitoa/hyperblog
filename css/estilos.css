@@ -24,6 +24,23 @@ body
     font-weight: normal;
     font-size: 0.8em ;
 }
+#cabecera
+{
+    background: #33A;
+    box-shadow: 25px -23px 26px -2px rgba(82,28,196,0.87);
+-webkit-box-shadow: 25px -23px 26px -2px rgba(82,28,196,0.87);
+-moz-box-shadow: 25px -23px 26px -2px rgba(82,28,196,0.87);
+    color:white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline
+{
+    margin: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em ;
+}
 #container
 {
     width: 70%;
